@@ -105,18 +105,6 @@ The project combines **AI, WhatsApp customer support, inventory management, and 
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Umrkimy&show_icons=true&hide_border=true&theme=transparent" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umrkimy&layout=compact&hide_border=true&theme=transparent" height="165">
-
-</div>
-
----
-
 ## 🔥 Contribution Graph
 
 <div align="center">

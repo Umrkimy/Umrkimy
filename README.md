@@ -1,113 +1,210 @@
-👋 Hi, I'm Muhammad Umar Hakimi
-💻 Software Engineering Student | Backend Developer | AI Enthusiast
+<div align="center">
 
-I'm Muhammad Umar Hakimi, a Software Engineering student who enjoys building software, backend systems, APIs, and experimenting with Artificial Intelligence.
+# Hey! I'm Muhammad Umar Hakimi 👋
 
-I'm especially interested in backend development, AI-powered applications, automation, and self-hosted systems. I enjoy taking an idea and turning it into something that actually works — from designing APIs and databases to building the frontend that connects everything together.
+### Software Engineering Student · Backend Developer · AI Enthusiast
 
-🚀 Currently Working On
-🤖 Bahulu Cameron AI Assistant
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=for-the-badge&logo=github" />
+</a>
 
-I'm currently developing Bahulu Cameron AI Assistant, a personal AI assistant designed around a modular backend architecture.
+</div>
 
-The project is focused on building my own AI-powered system that can communicate with and make use of different services rather than being just a simple chatbot.
+---
 
-Some of the things I'm working with include:
+## 👨‍💻 About Me
 
-🧠 ChatGPT / OpenAI models for AI capabilities
-⚡ FastAPI for the backend API
-🗄️ SQLAlchemy & SQLite for database management
-🔐 Authentication and API architecture
-🌐 RESTful API development
-🤖 AI assistant and automation features
-📦 Modular backend architecture
-💻 React + TypeScript frontend
-🛠️ Admin dashboard for managing the system
+I'm **Muhammad Umar Hakimi**, a Software Engineering student from Malaysia who enjoys building software, backend systems, and AI-powered applications.
 
-The long-term goal is to turn Bahulu Cameron into a personal AI assistant platform that can interact with different applications, services, databases, and tools.
+I'm particularly interested in **backend development, artificial intelligence, APIs, databases, automation, and self-hosted infrastructure**.
 
-Build it. Break it. Fix it. Learn from it.
+I enjoy learning by building things — especially projects that start as an idea and slowly turn into something actually usable.
 
-🧑‍💻 Tech Stack
-Languages
+```text
+🎓 Software Engineering Student
+💻 Backend & Full-Stack Development
+🤖 AI / LLM Applications
+🐳 Docker & Self-Hosted Systems
+🔧 Always building something
+```
 
+---
 
+## 🚀 What I'm Working On
 
+### 🤖 Bahulu Cameron AI Assistant
 
+My main project right now is **Bahulu Cameron**, a personal AI assistant that I'm building from the ground up.
 
+The goal is to create a modular AI assistant that can go beyond simply chatting with an LLM.
 
+```text
+                    ┌─────────────────────┐
+                    │   Bahulu Cameron    │
+                    │    AI Assistant     │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+              ▼                ▼                ▼
+        ┌───────────┐    ┌───────────┐    ┌───────────┐
+        │    AI     │    │  Backend  │    │ Database  │
+        │  / LLM    │    │   API     │    │           │
+        └───────────┘    └───────────┘    └───────────┘
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                      ┌─────────────────┐
+                      │ Web Application │
+                      └─────────────────┘
+```
 
-Backend
+### 🧠 Current Architecture
 
+* **FastAPI** backend
+* **Python** services
+* **SQLAlchemy** database layer
+* **SQLite** during development
+* **React + TypeScript** frontend
+* **Tailwind CSS** / modern UI
+* **OpenAI / ChatGPT models** for AI capabilities
+* REST APIs connecting the different components
+* Modular architecture for future AI tools and integrations
 
+### 🎯 Long-term Goal
 
+I want Bahulu Cameron to become a **personal AI platform** capable of interacting with applications, databases, tools, and services — essentially becoming a central assistant for my own digital environment.
 
+> Building my own AI assistant instead of just using one.
 
+---
 
-Frontend
+## 🛠️ Technologies & Tools
 
+### Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql" />
+</p>
 
+### Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,sqlite,postgres" />
+</p>
 
+### Frontend
 
-AI & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
 
+### Infrastructure & Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows" />
+</p>
 
+### AI
 
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
+**AI / LLM:** OpenAI · ChatGPT · AI Agents · RAG · Prompt Engineering
 
-🏗️ What I Like Building
+---
 
-I'm interested in projects involving:
+## 📚 Currently Learning
 
-🤖 Artificial Intelligence & LLM applications
-🧠 Personal AI assistants
-⚡ Backend APIs and services
-🗄️ Database-driven applications
-🌐 Full-stack web applications
-🔧 Automation
-🐳 Docker & self-hosted services
-🖥️ Home servers and infrastructure
-📡 Networking and distributed systems
-📚 Currently Learning
+```text
+Backend Architecture       ███████████████░░░  Learning
+AI / LLM Development       ██████████████░░░░  Learning
+System Design              ████████████░░░░░░  Learning
+Docker & Infrastructure    ███████████░░░░░░░  Learning
+Database Design             █████████████░░░░░  Learning
+Frontend Development        ███████████████░░░  Learning
+```
 
-I'm continuously improving my knowledge in:
+I'm currently focusing on becoming better at designing **real-world applications**, rather than only learning individual technologies.
 
-Backend architecture
-AI/LLM application development
-REST API design
-Database design
-System architecture
-Docker & containerization
-Cloud and self-hosted infrastructure
-Software engineering best practices
-🎯 My Goal
+---
 
-My goal is to become a strong software engineer with a focus on backend and AI development.
+## 💡 Things I Like Building
 
-I want to build software that isn't just a university project, but something that can actually be used, maintained, expanded, and deployed in the real world.
+* 🤖 AI assistants & LLM applications
+* ⚡ REST APIs & backend services
+* 🗄️ Database-driven applications
+* 🌐 Full-stack web applications
+* 🐳 Dockerized applications
+* 🏠 Self-hosted services
+* 🔧 Automation tools
+* 🧠 Machine Learning projects
+* 📡 Networking & infrastructure
 
-📌 Featured Project
-🤖 Bahulu Cameron AI Assistant
+---
 
-A personal AI assistant platform powered by modern LLMs, with a custom backend, database, API layer, and web interface.
+## 📌 Featured Project
 
-Status: 🚧 Actively in development
+<div align="center">
 
-📊 GitHub Stats
+### 🤖 Bahulu Cameron AI Assistant
 
+**Personal AI Assistant · Backend · AI · Full Stack**
 
+🚧 `Currently in development`
 
+</div>
 
+---
 
+## 📊 GitHub
 
+<div align="center">
 
-🤝 Let's Connect
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="165">
 
-I'm always interested in learning, building new things, and working on interesting software projects.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165">
 
-Thanks for visiting my profile! 🚀
+</div>
 
-⭐ "The best way to learn software engineering is to build something you're actually interested in."
+---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭
+
+*"Build things. Break things. Learn. Build again."*
+
+⭐ Thanks for visiting my profile!
+
+</div>

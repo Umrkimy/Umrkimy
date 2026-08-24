@@ -21,43 +21,30 @@ I'm **Muhammad Umar Hakimi**, a Software Engineering student from Malaysia who e
 
 I'm particularly interested in **backend development, artificial intelligence, APIs, databases, automation, and self-hosted infrastructure**.
 
-I enjoy learning by building things — especially projects that start as an idea and slowly turn into something actually usable.
+I enjoy learning by building real-world projects and turning ideas into software that people can actually use.
 
 ```text
 🎓 Software Engineering Student
 💻 Backend & Full-Stack Development
 🤖 AI / LLM Applications
+⚡ APIs & Database Development
 🐳 Docker & Self-Hosted Systems
 🔧 Always building something
 ```
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Currently Working On
 
 ### 🤖 Bahulu Cameron AI Assistant
 
-My main project right now is **Bahulu Cameron**, a personal AI assistant that I'm building from the ground up.
+I'm currently developing an **AI-powered business assistant** as a client project for **Bahulu Cameron Berry**.
 
-The goal is to create a modular AI assistant that can go beyond simply chatting with an LLM.
+The project combines **AI, WhatsApp customer support, inventory management, and business operations**.
 
-### 🧠 Current Architecture
+👉 **[View the project →](https://github.com/Umrkimy/bahulu-berry-cameron-ai-assistant)**
 
-* **FastAPI** backend
-* **Python** services
-* **SQLAlchemy** database layer
-* **SQLite** during development
-* **React + TypeScript** frontend
-* **Tailwind CSS** / modern UI
-* **OpenAI / ChatGPT models** for AI capabilities
-* REST APIs connecting the different components
-* Modular architecture for future AI tools and integrations
-
-### 🎯 Long-term Goal
-
-I want Bahulu Cameron to become a **personal AI platform** capable of interacting with applications, databases, tools, and services — essentially becoming a central assistant for my own digital environment.
-
-> Building my own AI assistant instead of just using one.
+🚧 Currently in development.
 
 ---
 
@@ -81,7 +68,7 @@ I want Bahulu Cameron to become a **personal AI platform** capable of interactin
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-### Infrastructure & Tools
+### Tools & Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows" />
@@ -89,54 +76,32 @@ I want Bahulu Cameron to become a **personal AI platform** capable of interactin
 
 ### AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**AI / LLM:** OpenAI · ChatGPT · AI Agents · RAG · Prompt Engineering
+**OpenAI · ChatGPT · AI Agents · RAG · Prompt Engineering**
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-Backend Architecture       ███████████████      Learning
-AI / LLM Development       ██████████████       Learning
-System Design              ████████████         Learning
-Docker & Infrastructure    ███████████          Learning
-Database Design             █████████████░░░░░  Learning
-Frontend Development        ███████████████░░░  Learning
-```
-
-I'm currently focusing on becoming better at designing **real-world applications**, rather than only learning individual technologies.
+* 🧠 AI & LLM application development
+* ⚡ Backend architecture
+* 🏗️ System design
+* 🗄️ Database design
+* 🐳 Docker & infrastructure
+* 🌐 Full-stack development
+* 🤖 AI agent development
 
 ---
 
 ## 💡 Things I Like Building
 
 * 🤖 AI assistants & LLM applications
-* ⚡ REST APIs & backend services
+* ⚡ Backend APIs & services
 * 🗄️ Database-driven applications
 * 🌐 Full-stack web applications
+* 💬 AI-powered customer support
 * 🐳 Dockerized applications
 * 🏠 Self-hosted services
 * 🔧 Automation tools
-* 🧠 Machine Learning projects
-* 📡 Networking & infrastructure
-
----
-
-## 📌 Featured Project
-
-<div align="center">
-
-### 🤖 Bahulu Cameron AI Assistant
-
-**Personal AI Assistant · Backend · AI · Full Stack**
-
-🚧 `Currently in development`
-
-</div>
 
 ---
 

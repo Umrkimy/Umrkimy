@@ -4,10 +4,10 @@
 
 ### Software Engineering Student · Backend Developer · AI Enthusiast
 
-<a href="https://github.com/yourusername">
+<a href="[https://github.com/yourusername](https://github.com/Umrkimy)">
   <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&logo=github" />
 </a>
-<a href="https://github.com/yourusername">
+<a href="[https://github.com/yourusername](https://github.com/Umrkimy)">
   <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=for-the-badge&logo=github" />
 </a>
 
@@ -40,27 +40,6 @@ I enjoy learning by building things — especially projects that start as an ide
 My main project right now is **Bahulu Cameron**, a personal AI assistant that I'm building from the ground up.
 
 The goal is to create a modular AI assistant that can go beyond simply chatting with an LLM.
-
-```text
-                    ┌─────────────────────┐
-                    │   Bahulu Cameron    │
-                    │    AI Assistant     │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-              ▼                ▼                ▼
-        ┌───────────┐    ┌───────────┐    ┌───────────┐
-        │    AI     │    │  Backend  │    │ Database  │
-        │  / LLM    │    │   API     │    │           │
-        └───────────┘    └───────────┘    └───────────┘
-              │                │                │
-              └────────────────┼────────────────┘
-                               ▼
-                      ┌─────────────────┐
-                      │ Web Application │
-                      └─────────────────┘
-```
 
 ### 🧠 Current Architecture
 
@@ -121,10 +100,10 @@ I want Bahulu Cameron to become a **personal AI platform** capable of interactin
 ## 📚 Currently Learning
 
 ```text
-Backend Architecture       ███████████████░░░  Learning
-AI / LLM Development       ██████████████░░░░  Learning
-System Design              ████████████░░░░░░  Learning
-Docker & Infrastructure    ███████████░░░░░░░  Learning
+Backend Architecture       ███████████████      Learning
+AI / LLM Development       ██████████████       Learning
+System Design              ████████████         Learning
+Docker & Infrastructure    ███████████          Learning
 Database Design             █████████████░░░░░  Learning
 Frontend Development        ███████████████░░░  Learning
 ```
@@ -187,11 +166,11 @@ I'm currently focusing on becoming better at designing **real-world applications
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="[https://github.com/YOUR_USERNAME](https://github.com/Umrkimy)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://linkedin.com/in/umrkimy)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

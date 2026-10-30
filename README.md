@@ -67,11 +67,11 @@ An old laptop with a broken hinge turned into my home server: photo backup, netw
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umrkimy&theme=github-compact&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Umrkimy&hide_border=true&theme=dark" />
 
 </div>
 
